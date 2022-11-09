@@ -40,7 +40,7 @@ body {
 .photo {
 	width: 98vw;
 	height: 85vh;
-	background: url('../img/imgfeia.jpg') center center/cover;
+	background: url('https://play-lh.googleusercontent.com/or-eFc4-uFbMpbOAZm5lFrAY56yHGJUeJJxixSPoWDSMaxJTplruWWRkWEIcbE5Fd_U') center center/cover;
 	border-radius: 10px;
 	display: flex;
 	align-items: flex-end;
